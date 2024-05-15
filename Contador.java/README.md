@@ -1,6 +1,6 @@
 ## Começando!! 😁
 
-Neste Projeto, a proposta  é de criar um contador que crie um fluxo de código que conte do parametro ao parametro dois.
+Neste Projeto, a proposta  é de criar um contador que crie um fluxo de código que conte do parametro um ao parametro dois.
 
 
 os códigos instruídos pela plataforma de ensino fora:
